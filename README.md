@@ -1,2 +1,3 @@
-# personal-website
-My personal website :3
+# Personal Website
+
+The source code of my personal website, made with php and random code from open-source materials.
