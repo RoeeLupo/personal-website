@@ -2,22 +2,23 @@
 require_once 'protect.php';
 Protect\with('login.php', 'SUPER SECRET PASSCODE!');
 ?>
-<?php $config = include('config.php');
+<?php
+$config = include('config.php');
 
-   	  session_start();
-	  include('functions.php');
-   if($config['enable_delete'] && $_GET['action'] && $_GET['action'] == 'delete') {
-    if(file_exists($_GET['filename'])) {
-    		unlink($_GET['filename']);
-	    	$_SESSION['type'] = 'success';
-	    	$_SESSION['message'] = 'You have successfully deleted <strong>'.$_GET['filename'].'</strong>';
-			die(header('Location: home.php'));
-	}else{
-	    	$_SESSION['type'] = 'danger';
-	    	$_SESSION['message'] = 'File Does Not Exist!';
-			die(header("Location: home.php"));
-		 }
-																				  }
+session_start();
+include('functions.php');
+if ($config['enable_delete'] && $_GET['action'] && $_GET['action'] == 'delete') {
+    if (file_exists($_GET['filename'])) {
+        unlink($_GET['filename']);
+        $_SESSION['type']    = 'success';
+        $_SESSION['message'] = 'You have successfully deleted <strong>' . $_GET['filename'] . '</strong>';
+        die(header('Location: home.php'));
+    } else {
+        $_SESSION['type']    = 'danger';
+        $_SESSION['message'] = 'File Does Not Exist!';
+        die(header("Location: home.php"));
+    }
+}
 ?>
 <html>
 	<head>
