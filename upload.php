@@ -5,7 +5,9 @@ $key = $config['secure_key'];
 $uploadhost = $config['output_url'];
 $redirect = $config['redirect_url'];
 
-if ($_SERVER["REQUEST_URI"] == "/robot.txt") { die("User-agent: *\nDisallow: /"); }
+if ($_SERVER["REQUEST_URI"] == "/robot.txt") {
+     die("User-agent: *\nDisallow: /"); 
+}
  
 if (isset($_POST['key'])) {
     if ($_POST['key'] == $key) {
@@ -24,6 +26,3 @@ if (isset($_POST['key'])) {
     header('Location: '.$redirect);
 }
 ?>
-
-
- 
