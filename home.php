@@ -101,7 +101,7 @@
                             <i data-toggle="tooltip" title="WebStorm IDE" class="devicon-webstorm-plain"></i>
                         </div>
                         <p>A list of Discord boats to enhance your server.</p>
-                        <p><a href="https://discord.boats">discord.boats</a></p>
+                        <p><a href="https://discord.boats/?utm_source=mrsheldon.me">discord.boats</a></p>
                     </div>
                 </div>
 
@@ -124,7 +124,7 @@
                             <i data-toggle="tooltip" title="Visual Studio Code" class="devicon-visualstudio-plain"></i>
                         </div>
                         <p>The most popular Discord bot in Israel, used by over 400,000 users (worldwide).</p>
-                        <p><a href="https://luki.xyz">luki.xyz</a></p>
+                        <p><a href="https://luki.xyz/?utm_source=mrsheldon.me">luki.xyz</a></p>
                     </div>
                 </div>
 
@@ -143,7 +143,7 @@
                         </div>
                         <p>TenDaysGive (תןדייז) is a non-profit project that began as part of a vision to increase good
                             in the world.</p>
-                        <p><a href="http://tendaysgive.com">tendaysgive.com</a></p>
+                        <p><a href="http://tendaysgive.com/?utm_source=mrsheldon.me">tendaysgive.com</a></p>
                     </div>
                 </div>
 
@@ -158,7 +158,7 @@
                             <i data-toggle="tooltip" title="Markdown" class="fab fa-markdown"></i>
                         </div>
                         <p>Discord.js (and related subjects) guide.</p>
-                        <p><a href="https://sheldon.guide">sheldon.guide</a></p>
+                        <p><a href="https://sheldon.guide/?utm_source=mrsheldon.me">sheldon.guide</a></p>
                     </div>
                 </div>
 
