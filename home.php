@@ -28,6 +28,10 @@
 </head>
 
 <body id="page-top">
+        <h1 id="titletext"></h1>
+        <h2 id="e"></h2>
+        <h3 id="o"></h3>
+        <div id="uwu">
     <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
         <a class="navbar-brand js-scroll-trigger" href="#page-top">
             <span class="d-block d-lg-none">MrSheldon</span>
@@ -54,8 +58,8 @@
 
         <section class="resume-section p-3 p-lg-5 d-flex d-column" id="about">
             <div class="my-auto">
-                <h1 class="mb-0">Mr
-                    <span class="text-primary">Sheldon</span>
+                <h1 class="mb-0 titletextone">Mr
+                    <span class="text-primary titletexttwo">Sheldon</span>
                 </h1>
                 <div class="subheading mb-5">Rishon Lezion, Israel · +972-54-970-9979 ·
                     <a href="mailto:contact@mrsheldon.me">contact@mrsheldon.me</a>
@@ -317,11 +321,14 @@
         </section>
 
     </div>
+    </div>
     <script src="assets/vendor/jquery/jquery.min.js"></script>
     <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
     <script src="assets/vendor/jquery-easing/jquery.easing.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
     <script src="assets/js/main.min.js"></script>
+    <script src="assets/js/egg.js"></script>
+    <script src="assets/js/nyanmode.js"></script>
     <script>
         $(function() {
             $('[data-toggle="tooltip"]').tooltip()
