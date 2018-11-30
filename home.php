@@ -150,7 +150,7 @@
                 <div class="resume-item d-flex flex-column flex-md-row mb-5">
                     <div class="resume-content mr-auto">
                         <h3 class="mb-0">Sheldon's Guide</h3>
-                        <div class="subheading mb-3">Writier
+                        <div class="subheading mb-3">Writer 
                             <br>
                             <i data-toggle="tooltip" title="HTML5" class="devicon-html5-plain"></i>
                             <i data-toggle="tooltip" title="NodeJS" class="devicon-nodejs-plain"></i>
