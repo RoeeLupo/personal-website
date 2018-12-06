@@ -8,7 +8,7 @@
     <meta name="description" content="MrSheldon - Web Desginer, Software Engineer and SysAdmin" />
     <meta name="author" content="MrSheldon">
     <meta name="twitter:card" value="summary" />
-    <meta name="twitter:title" content="Roee Lupo" />
+    <meta name="twitter:title" content="MrSheldon" />
     <meta name="twitter:description" content="MrSheldon - Web Desginer, Software Engineer and SysAdmin" />
     <meta name="twitter:image" content="https://mrsheldon.me/assets/images/mrsheldon.png">
     <meta name="theme-color" content="#000000">
