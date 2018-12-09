@@ -73,7 +73,7 @@
                     <a href="https://twitter.com/realMrSheldon">
                         <i class="fab fa-twitter"></i>
                     </a>
-                    <a href="https://discord.gg/76PAmCv">
+                    <a href="https://discord.gg/F3nhuRT">
                         <i class="fab fa-discord"></i>
                     </a>
                 </div>
@@ -127,7 +127,7 @@
                             <i data-toggle="tooltip" title="Photoshop" class="devicon-photoshop-plain"></i>
                             <i data-toggle="tooltip" title="Visual Studio Code" class="devicon-visualstudio-plain"></i>
                         </div>
-                        <p>The most popular Discord bot in Israel, used by over 400,000 users (worldwide).</p>
+                        <p>Was the most popular Discord bot in Israel, used by over 400,000 users (worldwide).</p>
                         <p><a href="https://luki.xyz/?utm_source=mrsheldon.me">luki.xyz</a></p>
                     </div>
                 </div>
