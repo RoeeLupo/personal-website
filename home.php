@@ -316,8 +316,8 @@
         <hr class="m-0">
 
         <section class="p-3 p-lg-5 d-flex flex-column" id="copyright">
-            <p class="copyright">Copyright © 2018 <a href="https://mrsheldon.me" targe="_blank">Roy Lupo</a> All Rights
-                Reserved</p>
+            <p class="copyright">Copyright © 2018-2019 <a href="https://mrsheldon.me" targe="_blank">MrSheldon</a>, All Rights
+                Reserved.</p>
         </section>
 
     </div>
