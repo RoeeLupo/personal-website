@@ -5,17 +5,17 @@
     <title>MrSheldon</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="MrSheldon - Web Desginer, Software Engineer and SysAdmin" />
+    <meta name="description" content="MrSheldon - fast learning web designer and developer" />
     <meta name="author" content="MrSheldon">
     <meta name="twitter:card" value="summary" />
     <meta name="twitter:title" content="MrSheldon" />
-    <meta name="twitter:description" content="MrSheldon - Web Desginer, Software Engineer and SysAdmin" />
+    <meta name="twitter:description" content="MrSheldon - fast learning web designer and developer" />
     <meta name="twitter:image" content="https://mrsheldon.me/assets/images/mrsheldon.png">
     <meta name="theme-color" content="#000000">
     <meta property="og:site_name" value="MrSheldon.me">
     <meta property="og:title" content="MrSheldon" />
     <meta property="og:url" content="https://mrsheldon.me" />
-    <meta property="og:description" content="MrSheldon - Web Desginer, Software Engineer and SysAdmin" />
+    <meta property="og:description" content="MrSheldon - fast learning web designer and developer" />
     <meta property="og:image" content="https://mrsheldon.me/assets/images/mrsheldon.png" />
     <link rel="icon" href="https://mrsheldon.me/assets/images/mrsheldon.png">
     <link rel="shortcut icon" href="https://mrsheldon.me/assets/images/mrsheldon.png">
@@ -104,38 +104,15 @@
                             <i data-toggle="tooltip" title="Linux" class="devicon-linux-plain"></i>
                             <i data-toggle="tooltip" title="WebStorm IDE" class="devicon-webstorm-plain"></i>
                         </div>
-                        <p>A list of Discord boats to enhance your server.</p>
+                        <p>Discord Boats is a growing directory of Discord bots to enhance your server - Find the perfect bot for your needs and add it to your server easily, quickly and for free.</p>
                         <p><a href="https://discord.boats/?utm_source=mrsheldon.me">discord.boats</a></p>
                     </div>
                 </div>
 
                 <div class="resume-item d-flex flex-column flex-md-row mb-5">
                     <div class="resume-content mr-auto">
-                        <h3 class="mb-0">Luki Bot</h3>
-                        <div class="subheading mb-3">Development Manager
-                            <br>
-                            <i data-toggle="tooltip" title="NodeJS" class="devicon-nodejs-plain"></i>
-                            <i data-toggle="tooltip" title="Express" class="devicon-express-original"></i>
-                            <i data-toggle="tooltip" title="HTML5" class="devicon-html5-plain"></i>
-                            <i data-toggle="tooltip" title="CSS3" class="devicon-css3-plain"></i>
-                            <i data-toggle="tooltip" title="Bootstrap" class="devicon-bootstrap-plain"></i>
-                            <i data-toggle="tooltip" title="JavaScript" class="devicon-javascript-plain"></i>
-                            <i data-toggle="tooltip" title="Git" class="devicon-git-plain"></i>
-                            <i data-toggle="tooltip" title="Github" class="devicon-github-plain"></i>
-                            <i data-toggle="tooltip" title="DigitalOcean" class="fab fa-digital-ocean"></i>
-                            <i data-toggle="tooltip" title="Linux" class="devicon-linux-plain"></i>
-                            <i data-toggle="tooltip" title="Photoshop" class="devicon-photoshop-plain"></i>
-                            <i data-toggle="tooltip" title="Visual Studio Code" class="devicon-visualstudio-plain"></i>
-                        </div>
-                        <p>Was the most popular Discord bot in Israel, used by over 400,000 users (worldwide).</p>
-                        <p><a href="https://luki.xyz/?utm_source=mrsheldon.me">luki.xyz</a></p>
-                    </div>
-                </div>
-
-                <div class="resume-item d-flex flex-column flex-md-row mb-5">
-                    <div class="resume-content mr-auto">
                         <h3 class="mb-0">TenDaysGive (תןדייז)</h3>
-                        <div class="subheading mb-3">Web designer
+                        <div class="subheading mb-3">Web Designer
                             <br>
                             <i data-toggle="tooltip" title="Wordpress" class="devicon-wordpress-plain"></i>
                             <i data-toggle="tooltip" title="Elementor" class="fab fa-elementor"></i>
@@ -148,21 +125,6 @@
                         <p>TenDaysGive (תןדייז) is a non-profit project that began as part of a vision to increase good
                             in the world.</p>
                         <p><a href="http://tendaysgive.com/?utm_source=mrsheldon.me">tendaysgive.com</a></p>
-                    </div>
-                </div>
-
-                <div class="resume-item d-flex flex-column flex-md-row mb-5">
-                    <div class="resume-content mr-auto">
-                        <h3 class="mb-0">Sheldon's Guide</h3>
-                        <div class="subheading mb-3">Writer 
-                            <br>
-                            <i data-toggle="tooltip" title="HTML5" class="devicon-html5-plain"></i>
-                            <i data-toggle="tooltip" title="NodeJS" class="devicon-nodejs-plain"></i>
-                            <i data-toggle="tooltip" title="JavaScript" class="devicon-javascript-plain"></i>
-                            <i data-toggle="tooltip" title="Markdown" class="fab fa-markdown"></i>
-                        </div>
-                        <p>Discord.js (and related subjects) guide.</p>
-                        <p><a href="https://sheldon.guide/?utm_source=mrsheldon.me">sheldon.guide</a></p>
                     </div>
                 </div>
 
