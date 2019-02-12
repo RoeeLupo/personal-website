@@ -82,7 +82,7 @@
         <hr class="m-0">
         <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="projects">
             <div class="my-auto">
-                <h2 class="mb-5">Featured Projects</h2>
+                <h2 class="mb-5">Current Projects</h2>
 
                 <div class="resume-item d-flex flex-column flex-md-row mb-5">
                     <div class="resume-content mr-auto">
@@ -91,6 +91,7 @@
                             <br>
                             <i data-toggle="tooltip" title="NodeJS" class="devicon-nodejs-plain"></i>
                             <i data-toggle="tooltip" title="Express" class="devicon-express-original"></i>
+                            <i data-toggle="tooltip" title="React" class="devicon-react-original"></i>
                             <i data-toggle="tooltip" title="HTML5" class="devicon-html5-plain"></i>
                             <i data-toggle="tooltip" title="CSS3" class="devicon-css3-plain"></i>
                             <i data-toggle="tooltip" title="Bootstrap" class="devicon-bootstrap-plain"></i>
@@ -106,25 +107,6 @@
                         </div>
                         <p>Discord Boats is a growing directory of Discord bots to enhance your server - Find the perfect bot for your needs and add it to your server easily, quickly and for free.</p>
                         <p><a href="https://discord.boats/?utm_source=mrsheldon.me">discord.boats</a></p>
-                    </div>
-                </div>
-
-                <div class="resume-item d-flex flex-column flex-md-row mb-5">
-                    <div class="resume-content mr-auto">
-                        <h3 class="mb-0">TenDaysGive (תןדייז)</h3>
-                        <div class="subheading mb-3">Web Designer
-                            <br>
-                            <i data-toggle="tooltip" title="Wordpress" class="devicon-wordpress-plain"></i>
-                            <i data-toggle="tooltip" title="Elementor" class="fab fa-elementor"></i>
-                            <i data-toggle="tooltip" title="CSS3" class="devicon-css3-plain"></i>
-                            <i data-toggle="tooltip" title="JavaScript" class="devicon-javascript-plain"></i>
-                            <i data-toggle="tooltip" title="MySQL" class="devicon-mysql-plain"></i>
-                            <i data-toggle="tooltip" title="DigitalOcean" class="fab fa-digital-ocean"></i>
-                            <i data-toggle="tooltip" title="Linux" class="devicon-linux-plain"></i>
-                        </div>
-                        <p>TenDaysGive (תןדייז) is a non-profit project that began as part of a vision to increase good
-                            in the world.</p>
-                        <p><a href="http://tendaysgive.com/?utm_source=mrsheldon.me">tendaysgive.com</a></p>
                     </div>
                 </div>
 
