@@ -5,17 +5,17 @@
     <title>MrSheldon</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="MrSheldon - fast learning web designer and developer" />
+    <meta name="description" content="MrSheldon - Full Stack Web Developer" />
     <meta name="author" content="MrSheldon">
     <meta name="twitter:card" value="summary" />
     <meta name="twitter:title" content="MrSheldon" />
-    <meta name="twitter:description" content="MrSheldon - fast learning web designer and developer" />
+    <meta name="twitter:description" content="MrSheldon - Full Stack Web Developer" />
     <meta name="twitter:image" content="https://mrsheldon.me/assets/images/mrsheldon.png">
     <meta name="theme-color" content="#000000">
     <meta property="og:site_name" value="MrSheldon.me">
     <meta property="og:title" content="MrSheldon" />
     <meta property="og:url" content="https://mrsheldon.me" />
-    <meta property="og:description" content="MrSheldon - fast learning web designer and developer" />
+    <meta property="og:description" content="MrSheldon - Full Stack Web Developer" />
     <meta property="og:image" content="https://mrsheldon.me/assets/images/mrsheldon.png" />
     <link rel="icon" href="https://mrsheldon.me/assets/images/mrsheldon.png">
     <link rel="shortcut icon" href="https://mrsheldon.me/assets/images/mrsheldon.png">
@@ -64,8 +64,7 @@
                 <div class="subheading mb-5">Rishon Lezion, Israel · +972-54-970-9979 ·
                     <a href="mailto:contact@mrsheldon.me">contact@mrsheldon.me</a>
                 </div>
-                <p class="lead mb-5">A fast learning web designer and developer working with many clients and managing
-                    multiple development teams to get work done on time.</p>
+                <p class="lead mb-5">I am a fast learning full stack web developer from Israel.</p>
                 <div class="social-icons">
                     <a href="https://github.com/MrSheldon">
                         <i class="fab fa-github"></i>
