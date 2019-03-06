@@ -97,6 +97,7 @@
                             <i data-toggle="tooltip" title="JavaScript" class="devicon-javascript-plain"></i>
                             <i data-toggle="tooltip" title="jQuery" class="devicon-jquery-plain"></i>
                             <i data-toggle="tooltip" title="MySQL" class="devicon-mysql-plain"></i>
+                            <i data-toggle="tooltip" title="Nginx" class="devicon-nginx-original"></i>
                             <i data-toggle="tooltip" title="NPM" class="fab fa-npm"></i>
                             <i data-toggle="tooltip" title="Git" class="devicon-git-plain"></i>
                             <i data-toggle="tooltip" title="Github" class="devicon-github-plain"></i>
