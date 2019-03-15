@@ -64,16 +64,27 @@
                 <div class="subheading mb-5">Rishon Lezion, Israel · +972-54-970-9979 ·
                     <a href="mailto:contact@mrsheldon.me">contact@mrsheldon.me</a>
                 </div>
-                <p class="lead mb-5">I am a fast learning full stack web developer from Israel.</p>
+                <p class="lead mb-5">
+                I'm Roee Lupo (known as MrSheldon online), a full stack web developer from Israel.                
+                </p>
                 <div class="social-icons">
-                    <a href="https://github.com/MrSheldon">
+                <a data-toggle="tooltip" title="Email" href="mailto:contact@mrsheldon.me">
+                        <i class="fas fa-envelope"></i>
+                    </a>
+                    <a data-toggle="tooltip" title="Github" href="https://github.com/MrSheldon">
                         <i class="fab fa-github"></i>
                     </a>
-                    <a href="https://twitter.com/realMrSheldon">
+                    <a data-toggle="tooltip" title="Twitter" href="https://twitter.com/realMrSheldon">
                         <i class="fab fa-twitter"></i>
                     </a>
-                    <a href="https://discord.gg/F3nhuRT">
+                    <a data-toggle="tooltip" title="Discord" href="/discord">
                         <i class="fab fa-discord"></i>
+                    </a>
+                    <a data-toggle="tooltip" title="Keybase" href="https://keybase.io/mrsheldon">
+                        <i class="fab fa-keybase"></i>
+                    </a>
+                    <a data-toggle="tooltip" title="Discord Boats" href="https://discord.boats/user/231733082804322304">
+                        <i><img style="position: relative; top: -2.5px;" width="42" height="42" src="https://discord.boats/logo.png" /></i>
                     </a>
                 </div>
             </div>
@@ -86,7 +97,7 @@
                 <div class="resume-item d-flex flex-column flex-md-row mb-5">
                     <div class="resume-content mr-auto">
                         <h3 class="mb-0">Discord Boats</h3>
-                        <div class="subheading mb-3">Founder &amp; Development Manager
+                        <div class="subheading mb-3">Co-Founder &amp; Development Manager
                             <br>
                             <i data-toggle="tooltip" title="NodeJS" class="devicon-nodejs-plain"></i>
                             <i data-toggle="tooltip" title="Express" class="devicon-express-original"></i>
@@ -260,7 +271,7 @@
         <hr class="m-0">
 
         <section class="p-3 p-lg-5 d-flex flex-column" id="copyright">
-            <p class="copyright">Copyright © 2018-2019 <a href="https://mrsheldon.me" targe="_blank">MrSheldon</a>, All Rights
+            <p class="copyright">Copyright © 2018-2019 <a data-toggle="tooltip" title="Also known as MrSheldon" href="https://mrsheldon.me" targe="_blank">Roee Lupo</a>, All Rights
                 Reserved.</p>
         </section>
 
