@@ -108,6 +108,7 @@
                             <i data-toggle="tooltip" title="JavaScript" class="devicon-javascript-plain"></i>
                             <i data-toggle="tooltip" title="jQuery" class="devicon-jquery-plain"></i>
                             <i data-toggle="tooltip" title="MySQL" class="devicon-mysql-plain"></i>
+                            <i data-toggle="tooltip" title="Redis" class="devicon-redis-plain"></i>
                             <i data-toggle="tooltip" title="Nginx" class="devicon-nginx-original"></i>
                             <i data-toggle="tooltip" title="NPM" class="fab fa-npm"></i>
                             <i data-toggle="tooltip" title="Git" class="devicon-git-plain"></i>
@@ -207,6 +208,9 @@
                     </li>
                     <li class="list-inline-item">
                         <i data-toggle="tooltip" title="MongoDB - Cross-platform document-oriented database program" class="devicon-mongodb-plain"></i>
+                    </li>
+                    <li class="list-inline-item">
+                        <i data-toggle="tooltip" title="Redis - In-memory data structure store, used as a database, cache and message broker" class="devicon-redis-plain"></i>
                     </li>
                     <li class="list-inline-item">
                         <i data-toggle="tooltip" title="NPM - Package manager for the JavaScript programming language" class="fab fa-npm"></i>
