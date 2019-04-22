@@ -1,3 +1,13 @@
+
+<!--
+/*-----------------------------------------------------------*\
+| This code is made by Roee Lupo and is licensed under the    |
+| MIT license ( https://opensource.org/licenses/MIT )         |
+|                                                             |
+| GitHub: https://github.com/MrSheldon/personal-website       |
+\*-----------------------------------------------------------*/
+-->
+
 <!DOCTYPE html>
 <html lang="en">
 
