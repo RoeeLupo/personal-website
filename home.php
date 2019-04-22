@@ -142,7 +142,7 @@
             <div class="my-auto">
                 <h2 class="mb-5">Skills</h2>
 
-                <div class="subheading mb-3">Programming Languages &amp; Tools &amp; Operation Systems &amp; Editors</div>
+                <div class="subheading mb-3">Programming Languages, Tools, Operation Systems and Editors</div>
                 <ul class="list-inline dev-icons">
                     <li class="list-inline-item">
                         <i data-toggle="tooltip" title="NodeJS - JavaScript runtime" class="devicon-nodejs-plain"></i>
