@@ -132,6 +132,25 @@
                     </div>
                 </div>
 
+                <div class="resume-item d-flex flex-column flex-md-row mb-5">
+                    <div class="resume-content mr-auto">
+                        <h3 class="mb-0">RankOfWeb</h3>
+                        <div class="subheading mb-3">Founder &amp; Development Manager
+                            <br>
+                            <i data-toggle="tooltip" title="NodeJS" class="devicon-nodejs-plain"></i>
+                            <i data-toggle="tooltip" title="Express" class="devicon-express-original"></i>
+                            <i data-toggle="tooltip" title="JavaScript" class="devicon-javascript-plain"></i>
+                            <i data-toggle="tooltip" title="Nginx" class="devicon-nginx-original"></i>
+                            <i data-toggle="tooltip" title="NPM" class="fab fa-npm"></i>
+                            <i data-toggle="tooltip" title="Git" class="devicon-git-plain"></i>
+                            <i data-toggle="tooltip" title="DigitalOcean" class="fab fa-digital-ocean"></i>
+                            <i data-toggle="tooltip" title="Linux" class="devicon-linux-plain"></i>
+                            <i data-toggle="tooltip" title="WebStorm IDE" class="devicon-webstorm-plain"></i>
+                        </div>
+                        <p>Discord Boats is a growing directory of Discord bots to enhance your server - Find the perfect bot for your needs and add it to your server easily, quickly and for free.</p>
+                        <p><a href="https://rankofweb.xyz/?utm_source=mrsheldon.me">rankofweb.xyz</a></p>
+                    </div>
+                </div>
             </div>
 
         </section>
