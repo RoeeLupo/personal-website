@@ -137,15 +137,18 @@
                         <h3 class="mb-0">RankOfWeb</h3>
                         <div class="subheading mb-3">Founder &amp; Development Manager
                             <br>
-                            <i data-toggle="tooltip" title="NodeJS" class="devicon-nodejs-plain"></i>
-                            <i data-toggle="tooltip" title="Express" class="devicon-express-original"></i>
+                            <i data-toggle="tooltip" title="Python" class="devicon-python-plain"></i>
+                            <i data-toggle="tooltip" title="Django" class="devicon-django-plain"></i>
                             <i data-toggle="tooltip" title="JavaScript" class="devicon-javascript-plain"></i>
+                            <i data-toggle="tooltip" title="Sass" class="devicon-sass-original"></i>
+                            <i data-toggle="tooltip" title="MongoDB" class="devicon-mongodb-plain"></i>
+                            <i data-toggle="tooltip" title="Redis" class="devicon-redis-plain"></i>
                             <i data-toggle="tooltip" title="Nginx" class="devicon-nginx-original"></i>
-                            <i data-toggle="tooltip" title="NPM" class="fab fa-npm"></i>
                             <i data-toggle="tooltip" title="Git" class="devicon-git-plain"></i>
+                            <i data-toggle="tooltip" title="Github" class="devicon-github-plain"></i>
                             <i data-toggle="tooltip" title="DigitalOcean" class="fab fa-digital-ocean"></i>
                             <i data-toggle="tooltip" title="Linux" class="devicon-linux-plain"></i>
-                            <i data-toggle="tooltip" title="WebStorm IDE" class="devicon-webstorm-plain"></i>
+                            <i data-toggle="tooltip" title="Visual Studio Code" class="devicon-visualstudio-plain"></i>
                         </div>
                         <p>Discord Boats is a growing directory of Discord bots to enhance your server - Find the perfect bot for your needs and add it to your server easily, quickly and for free.</p>
                         <p><a href="https://rankofweb.xyz/?utm_source=mrsheldon.me">rankofweb.xyz</a></p>
