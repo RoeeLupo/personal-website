@@ -87,6 +87,9 @@
                     <a data-toggle="tooltip" title="Twitter" href="https://twitter.com/realMrSheldon">
                         <i class="fab fa-twitter"></i>
                     </a>
+                    <a data-toggle="tooltip" title="Instagram" href="https://instagram.com/realMrSheldon">
+                        <i class="fab fa-instagram"></i>
+                    </a>
                     <a data-toggle="tooltip" title="Discord" href="/discord">
                         <i class="fab fa-discord"></i>
                     </a>
@@ -107,7 +110,7 @@
                 <div class="resume-item d-flex flex-column flex-md-row mb-5">
                     <div class="resume-content mr-auto">
                         <h3 class="mb-0">Discord Boats</h3>
-                        <div class="subheading mb-3">Co-Founder &amp; Development Manager
+                        <div class="subheading mb-3">Co-Founder, Owner &amp; Development Manager
                             <br>
                             <i data-toggle="tooltip" title="NodeJS" class="devicon-nodejs-plain"></i>
                             <i data-toggle="tooltip" title="Express" class="devicon-express-original"></i>
@@ -116,8 +119,10 @@
                             <i data-toggle="tooltip" title="CSS3" class="devicon-css3-plain"></i>
                             <i data-toggle="tooltip" title="Bootstrap" class="devicon-bootstrap-plain"></i>
                             <i data-toggle="tooltip" title="JavaScript" class="devicon-javascript-plain"></i>
+                            <i data-toggle="tooltip" title="TypeScript" class="devicon-typescript-plain"></i>
                             <i data-toggle="tooltip" title="jQuery" class="devicon-jquery-plain"></i>
                             <i data-toggle="tooltip" title="MySQL" class="devicon-mysql-plain"></i>
+                            <i data-toggle="tooltip" title="MongoDB" class="devicon-mongodb-plain"></i>
                             <i data-toggle="tooltip" title="Redis" class="devicon-redis-plain"></i>
                             <i data-toggle="tooltip" title="Nginx" class="devicon-nginx-original"></i>
                             <i data-toggle="tooltip" title="NPM" class="fab fa-npm"></i>
@@ -135,7 +140,7 @@
                 <div class="resume-item d-flex flex-column flex-md-row mb-5">
                     <div class="resume-content mr-auto">
                         <h3 class="mb-0">RankOfWeb</h3>
-                        <div class="subheading mb-3">Founder &amp; Development Manager
+                        <div class="subheading mb-3">Founder, Owner &amp; Project Manager
                             <br>
                             <i data-toggle="tooltip" title="Python" class="devicon-python-plain"></i>
                             <i data-toggle="tooltip" title="Django" class="devicon-django-plain"></i>
