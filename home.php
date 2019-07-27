@@ -75,7 +75,7 @@
                     <a href="mailto:contact@mrsheldon.me">contact@mrsheldon.me</a>
                 </div>
                 <p class="lead mb-5">
-                I'm Roee Lupo (known as MrSheldon online), a full stack web developer from Israel.                
+                I'm Roee Lupo (known as MrSheldon online), a full stack web developer and IT technician from Israel.                
                 </p>
                 <div class="social-icons">
                 <a data-toggle="tooltip" title="Email" href="mailto:contact@mrsheldon.me">
