@@ -86,7 +86,7 @@
                     <a data-toggle="tooltip" title="Instagram" href="https://instagram.com/realMrSheldon">
                         <i class="fab fa-instagram"></i>
                     </a>
-                    <a data-toggle="tooltip" title="Discord" href="/discord">
+                    <a data-toggle="tooltip" data-html="true" title="<img src='https://mrsheldon.me/files/81581810.png' alt='Discord'>">
                         <i class="fab fa-discord"></i>
                     </a>
                     <a data-toggle="tooltip" title="Keybase" href="https://keybase.io/mrsheldon">
