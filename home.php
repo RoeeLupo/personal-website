@@ -111,21 +111,26 @@
                             <i data-toggle="tooltip" title="NodeJS" class="devicon-nodejs-plain"></i>
                             <i data-toggle="tooltip" title="Express" class="devicon-express-original"></i>
                             <i data-toggle="tooltip" title="React" class="devicon-react-original"></i>
+                            <i data-toggle="tooltip" title="Sass" class="devicon-sass-original"></i>
                             <i data-toggle="tooltip" title="HTML5" class="devicon-html5-plain"></i>
                             <i data-toggle="tooltip" title="CSS3" class="devicon-css3-plain"></i>
                             <i data-toggle="tooltip" title="Bootstrap" class="devicon-bootstrap-plain"></i>
                             <i data-toggle="tooltip" title="JavaScript" class="devicon-javascript-plain"></i>
                             <i data-toggle="tooltip" title="TypeScript" class="devicon-typescript-plain"></i>
                             <i data-toggle="tooltip" title="jQuery" class="devicon-jquery-plain"></i>
+                            <i data-toggle="tooltip" title="Python" class="devicon-python-plain"></i>
                             <i data-toggle="tooltip" title="MySQL" class="devicon-mysql-plain"></i>
                             <i data-toggle="tooltip" title="MongoDB" class="devicon-mongodb-plain"></i>
                             <i data-toggle="tooltip" title="Redis" class="devicon-redis-plain"></i>
                             <i data-toggle="tooltip" title="Nginx" class="devicon-nginx-original"></i>
                             <i data-toggle="tooltip" title="NPM" class="fab fa-npm"></i>
                             <i data-toggle="tooltip" title="Git" class="devicon-git-plain"></i>
-                            <i data-toggle="tooltip" title="Github" class="devicon-github-plain"></i>
+                            <i data-toggle="tooltip" title="GitKraken" class="fab fa-gitkraken"></i>
+                            <i data-toggle="tooltip" title="GitHub" class="devicon-github-plain"></i>
+                            <i data-toggle="tooltip" title="Docker" class="devicon-docker-plain"></i>
                             <i data-toggle="tooltip" title="DigitalOcean" class="fab fa-digital-ocean"></i>
                             <i data-toggle="tooltip" title="Linux" class="devicon-linux-plain"></i>
+                            <i data-toggle="tooltip" title="Photoshop" class="devicon-photoshop-plain"></i>
                             <i data-toggle="tooltip" title="WebStorm IDE" class="devicon-webstorm-plain"></i>
                         </div>
                         <p>Discord Boats is a growing directory of Discord bots to enhance your server - Find the perfect bot for your needs and add it to your server easily, quickly and for free.</p>
@@ -148,7 +153,7 @@
                             <i data-toggle="tooltip" title="Nginx" class="devicon-nginx-original"></i>
                             <i data-toggle="tooltip" title="NPM" class="fab fa-npm"></i>
                             <i data-toggle="tooltip" title="Git" class="devicon-git-plain"></i>
-                            <i data-toggle="tooltip" title="Github" class="devicon-github-plain"></i>
+                            <i data-toggle="tooltip" title="GitHub" class="devicon-github-plain"></i>
                             <i data-toggle="tooltip" title="DigitalOcean" class="fab fa-digital-ocean"></i>
                             <i data-toggle="tooltip" title="Linux" class="devicon-linux-plain"></i>
                             <i data-toggle="tooltip" title="WebStorm IDE" class="devicon-webstorm-plain"></i>
@@ -256,7 +261,7 @@
                         <i data-toggle="tooltip" title="Git - Version-control system for tracking changes in computer files and coordinating work on those files among multiple people" class="devicon-git-plain"></i>
                     </li>
                     <li class="list-inline-item">
-                        <i data-toggle="tooltip" title="Github - Web-based hosting service for version control using Git" class="devicon-github-plain"></i>
+                        <i data-toggle="tooltip" title="GitHub - Web-based hosting service for version control using Git" class="devicon-github-plain"></i>
                     </li>
                     <li class="list-inline-item">
                         <i data-toggle="tooltip" title="Gitlab - Web-based Git-repository manager providing wiki, issue-tracking and CI/CD pipeline features" class="devicon-gitlab-plain"></i>
