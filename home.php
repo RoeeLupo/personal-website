@@ -348,8 +348,8 @@
       `Websites`,
       `Chat Bots`,
       `Databases`,
-      `Landing Pages`,
       `Servers`,
+      `Information Technology`,
       `Web Infrastructure`
     ];
     
