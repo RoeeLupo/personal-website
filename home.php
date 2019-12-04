@@ -34,6 +34,11 @@
 </head>
 
 <body id="page-top">
+<style>
+#rndmskilltext {
+    color: white !important;
+}
+</style>
         <h1 id="titletext"></h1>
         <h2 id="e"></h2>
         <h3 id="o"></h3>
@@ -41,6 +46,10 @@
     <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
         <a class="navbar-brand js-scroll-trigger" href="#page-top">
             <span class="d-block d-lg-none">MrSheldon</span>
+            <span class="d-none d-lg-block">
+        <h4><span style="color: white">I do &downarrow;</span></h4>
+          <h3 id="rndmskilltext"><span style="color: white">[Websites]</span></h3> <br />
+      </span>
         </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -83,7 +92,7 @@
                     <a data-toggle="tooltip" title="Twitter" href="https://twitter.com/realMrSheldon">
                         <i class="fab fa-twitter"></i>
                     </a>
-                    <a data-toggle="tooltip" title="Instagram" href="https://instagram.com/realMrSheldon">
+                    <a data-toggle="tooltip" title="Instagram" href="https://instagram.com/roeelupo">
                         <i class="fab fa-instagram"></i>
                     </a>
                     <a data-toggle="tooltip" data-html="true" title="<img src='https://mrsheldon.me/files/54432322.png' alt='Discord'>">
@@ -314,7 +323,7 @@
         <hr class="m-0">
 
         <section class="p-3 p-lg-5 d-flex flex-column" id="copyright">
-            <p class="copyright">Copyright © 2018-2019 <a data-toggle="tooltip" title="Also known as MrSheldon" href="https://mrsheldon.me" targe="_blank">Roee Lupo</a>, All Rights
+            <p class="copyright">Copyright © 2018-<?php echo date("Y"); ?> <a data-toggle="tooltip" title="Also known as MrSheldon" href="https://mrsheldon.me" targe="_blank">Roee Lupo</a>, All Rights
                 Reserved.</p>
         </section>
 
@@ -331,7 +340,30 @@
         $(function() {
             $('[data-toggle="tooltip"]').tooltip()
         })
-    </script>
+
+        window.onload = () => {
+    
+    const skillsShort = [
+      `APIs`, 
+      `Websites`,
+      `Chat Bots`,
+      `Databases`,
+      `Landing Pages`,
+      `Servers`,
+      `Web Infrastructure`
+    ];
+    
+
+    i = -1;
+(function f(){
+    i = (i + 1) % skillsShort.length;
+    rndmskilltext.innerHTML = `[${skillsShort[i]}]`;
+
+    setTimeout(f, 1000);
+ })();
+  
+}
+        </script>
 </body>
 
 </html>
