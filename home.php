@@ -146,31 +146,7 @@
                         <p><a href="https://discord.boats/?utm_source=mrsheldon.me">discord.boats</a></p>
                     </div>
                 </div>
-                <div class="resume-item d-flex flex-column flex-md-row mb-5">
-                    <div class="resume-content mr-auto">
-                        <h3 class="mb-0">AnonymousRooms</h3>
-                        <div class="subheading mb-3">Founder, Owner &amp; Project Manager
-                            <br>
-                            <i data-toggle="tooltip" title="NodeJS" class="devicon-nodejs-plain"></i>
-                            <i data-toggle="tooltip" title="Express" class="devicon-express-original"></i>
-                            <i data-toggle="tooltip" title="React" class="devicon-react-original"></i>
-                            <i data-toggle="tooltip" title="HTML5" class="devicon-html5-plain"></i>
-                            <i data-toggle="tooltip" title="CSS3" class="devicon-css3-plain"></i>
-                            <i data-toggle="tooltip" title="JavaScript" class="devicon-javascript-plain"></i>
-                            <i data-toggle="tooltip" title="jQuery" class="devicon-jquery-plain"></i>
-                            <i data-toggle="tooltip" title="Redis" class="devicon-redis-plain"></i>
-                            <i data-toggle="tooltip" title="Nginx" class="devicon-nginx-original"></i>
-                            <i data-toggle="tooltip" title="NPM" class="fab fa-npm"></i>
-                            <i data-toggle="tooltip" title="Git" class="devicon-git-plain"></i>
-                            <i data-toggle="tooltip" title="GitHub" class="devicon-github-plain"></i>
-                            <i data-toggle="tooltip" title="DigitalOcean" class="fab fa-digital-ocean"></i>
-                            <i data-toggle="tooltip" title="Linux" class="devicon-linux-plain"></i>
-                            <i data-toggle="tooltip" title="WebStorm IDE" class="devicon-webstorm-plain"></i>
-                        </div>
-                        <p>Completely anonymous chat rooms, no tricks, 100% free</p>
-                        <p><a href="https://anonymousrooms.agenic.co.uk/?utm_source=mrsheldon.me">anonymousrooms.agenic.co.uk</a></p>
-                    </div>
-                </div
+  
 
         </section>
 
