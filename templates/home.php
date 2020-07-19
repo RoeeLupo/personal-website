@@ -104,17 +104,20 @@ $conn->close();
                     <span class="text-primary titletexttwo">Sheldon</span>
                 </h1>
                 <div class="subheading mb-5">Rishon Lezion, Israel · +972-54-970-9979 ·
-                    <a href="mailto:contact@mrsheldon.me">contact@mrsheldon.me</a>
+                    <a href="mailto:roee@discord.boats">roee@discord.boats</a>
                 </div>
                 <p class="lead mb-5">
                 <?= $short_desc_content ?>             
                 </p>
                 <div class="social-icons">
-                <a data-toggle="tooltip" title="Email" href="mailto:contact@mrsheldon.me">
+                <a data-toggle="tooltip" title="Email" href="mailto:roee@discord.boats">
                         <i class="fas fa-envelope"></i>
                     </a>
                     <a data-toggle="tooltip" title="Github" href="https://github.com/MrSheldon">
                         <i class="fab fa-github"></i>
+                    </a>
+                    <a data-toggle="tooltip" title="LinkedIn" href="https://www.linkedin.com/in/roee-lupo-42a2a31b3/">
+                        <i class="fab fa-linkedin"></i>
                     </a>
                     <a data-toggle="tooltip" title="Twitter" href="https://twitter.com/realMrSheldon">
                         <i class="fab fa-twitter"></i>
