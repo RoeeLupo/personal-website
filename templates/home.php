@@ -125,13 +125,13 @@ $conn->close();
                     <a data-toggle="tooltip" title="Instagram" href="https://instagram.com/roeelupo">
                         <i class="fab fa-instagram"></i>
                     </a>
-                    <a data-toggle="tooltip" data-html="true" title="<img src='https://mrsheldon.me/files/54432322.png' alt='Discord'>">
+                    <a data-toggle="tooltip" data-html="true" title="<img src='https://mrsheldon.me/files/32300766.png' alt='Discord'>">
                         <i class="fab fa-discord"></i>
                     </a>
                     <a data-toggle="tooltip" title="Keybase" href="https://keybase.io/mrsheldon">
                         <i class="fab fa-keybase"></i>
                     </a>
-                    <a data-toggle="tooltip" title="Discord Boats" href="https://discord.boats/user/231733082804322304">
+                    <a data-toggle="tooltip" title="Discord Boats" href="https://discord.boats/user/mrsheldon">
                         <i><img style="position: relative; top: -2.5px;" width="42" height="42" src="https://discord.boats/logo.png" /></i>
                     </a>
                 </div>
