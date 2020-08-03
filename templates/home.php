@@ -80,7 +80,7 @@ $conn->close();
         <div id="uwu">
     <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
         <a class="navbar-brand js-scroll-trigger" href="#page-top">
-            <span class="d-block d-lg-none">MrSheldon</span>
+            <span class="d-block d-lg-none">Roee Lupo</span>
             <span class="d-none d-lg-block">
         <h4><span style="color: white">I do &downarrow;</span></h4>
           <h3 id="rndmskilltext"><span style="color: white">[Websites]</span></h3> <br />
@@ -100,8 +100,8 @@ $conn->close();
 
         <section class="resume-section p-3 p-lg-5 d-flex d-column" id="about">
             <div class="my-auto">
-                <h1 class="mb-0 titletextone">Mr
-                    <span class="text-primary titletexttwo">Sheldon</span>
+                <h1 class="mb-0 titletextone">Roee
+                    <span class="text-primary titletexttwo">Lupo</span>
                 </h1>
                 <div class="subheading mb-5">Rishon Lezion, Israel · +972-54-970-9979 ·
                     <a href="mailto:roee@discord.boats">roee@discord.boats</a>
